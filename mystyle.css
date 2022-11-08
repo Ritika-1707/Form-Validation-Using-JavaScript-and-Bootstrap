@@ -1,0 +1,216 @@
+/* Styling for Top Nav_Bar */
+
+.navbar {
+    background-color: rgb(244, 241, 255);
+}
+
+#navbarCollapse a:hover {
+    background-color: white;
+}
+
+#form1 {
+    height: 35px;
+}
+
+#btn1 {
+    float: right;
+    border-width: 0px;
+    margin-left: 0.3em;
+    background-color: green;
+}
+
+#btn3 {
+    float: right;
+    border-width: 0px;
+    margin-left: 0.3em;
+    background-color:red;
+}
+
+
+#btn2 {
+    float: right;
+    border-width: 0px;
+    margin-left: 0.3em;
+    background-color: black;
+    color: white;
+}
+
+p {
+    display: block;
+    text-align: right;
+    font-size: small;
+}
+
+#id2{
+    text-align: center;
+}
+
+
+#id3 {
+    text-align: justify;
+}
+
+#id7 {
+    background-color:  rgb(237, 178, 252);
+}
+
+#id8 {
+    float:left;
+    margin: 0%;
+    color: beige;
+}
+
+#id11 {
+    margin-top: 00.3em;
+    margin-bottom: 0%;
+   text-align: center;
+   background-color: #5f5f5f;
+   color: white;
+}
+
+
+#myslide {
+    margin-top: 5em;
+
+}
+
+#jumbo1 {
+    margin-top: 2em;
+}
+
+#jumboid1 {
+    margin-top: 0.8em;
+}
+
+#jumboid1 a:hover {
+    background-color:rgb(78, 77, 85);
+    text-decoration-line: underline;
+}
+
+/* Footer Styling */
+.heading h1 {
+    text-align: center;
+}
+
+.section-subscribe {
+    padding: 2em 0;
+}
+
+.form-control {
+    outline: none;
+    box-shadow: none!important;
+    height: 50px;
+}
+
+.form-control:focus {
+    box-shadow: rgba(0, 0, 0, 0.2) !important;
+}
+
+.form-control:focus, .form-control:active {
+    outline: none;
+}
+
+.btn.btn-secondary {
+    color: #fff;
+    border-width: 2px;
+    background: #2b2727;
+    border-color: #848086;
+    padding: 10px;
+    width: 350px;
+}
+
+.btn.btn-secondary:hover {
+    background-color:rgb(78, 77, 85) 
+}
+
+
+li {
+    list-style: none;
+    font-size: small;
+    margin: 0.2em;
+    padding: 0.2em;
+}
+
+#footer1 {
+    text-align: center;
+}
+
+#footer3 {
+    text-align: justify;
+}
+
+#footer3 a:hover {
+    background-color:#5f5f5f;
+}
+
+#footer4 {
+    margin: 1em;
+    padding: 0.3em;
+}
+
+#footer2 {
+    text-align: center;
+}
+
+#footer2 a:hover {
+    background-color:#5f5f5f;
+
+}
+
+@media screen and (max-width: 400px) {
+    #form-1{
+        padding: 15px 10px;
+    }
+}
+
+.field i {
+    position: absolute;
+    top:10px;
+    right:10px;
+    visibility: hidden;
+    font-weight: bold;
+}
+
+/* Error Styling */
+.error p {
+    visibility: visible !important;
+}
+
+.error input {
+    border: 3px red solid !important;
+}
+
+.field.error i.lni-question-circle {
+    visibility: visible;
+    color: red;
+}
+
+/* Success Styling */
+.success p {
+    visibility: hidden !important;
+}
+
+.success input {
+    border: 3px green solid !important;
+}
+
+.field.success i.lni-checkmark-circle {
+    visibility: visible;
+    color: green;
+}
+
+
+.input-field p {
+    font-size: 15px;
+    color: red;
+    visibility: hidden;
+    text-align: left;
+
+}
+
+#result-h1 {
+    font-size: xx-large;
+    font-weight:600;
+    color:green;
+}
+
