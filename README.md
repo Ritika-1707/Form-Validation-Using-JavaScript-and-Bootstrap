@@ -1,6 +1,6 @@
 # Form-Validation-Using-JavaScript-and-Bootstrap
 
-In this case study you will implement a website which shows the Natwest Services given to the customer. Design a about us, contact us, services like loan, money transfer and so on.
+In this case study you will implement a website which shows the Bank Services given to the customer. Design a about us, contact us, services like loan, money transfer and so on.
 Design 
 Register & Login: Users should be able to register and login to the system.
 Users should register
