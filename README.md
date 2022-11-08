@@ -14,11 +14,10 @@ Users should register
       e) Mobile no.
       f) Password
       
-You should implement the validation for the above fields in which email id should accept 
+You should implement the validation for the above fields in which email id should accept only valid email id format
 
-only valid email id format (xxx@xx.com), mobile number should be 10 digits, name can’t be 
+(xxx@xx.com), mobile number should be 10 digits, name can’t be empty, password can’t be empty.
 
-empty, password can’t be empty.
 • Once successfully entered the details it displays “Registration completion”
 
       Login 
